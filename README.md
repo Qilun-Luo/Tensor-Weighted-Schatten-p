@@ -8,9 +8,9 @@ Yang, M., Luo, Q., Li, W., & Xiao, M. (2022). Nonconvex 3D array image data reco
 - `data` contains datasets.
   - `tc_data`: 
   
-  | Dataset | Sources |
-  | ---- | ---- |
-  | mri | http://brainweb.bic.mni.mcgill.ca/brainweb/selection\_normal.html |
+    | Dataset | Sources |
+    | ---- | ---- |
+    | MRI | http://brainweb.bic.mni.mcgill.ca/brainweb/selection_normal.html |
 - `utils` includes some utilities scripts.
 
 ## Files

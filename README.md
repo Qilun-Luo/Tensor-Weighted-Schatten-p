@@ -6,6 +6,17 @@ Yang, M., Luo, Q., Li, W., & Xiao, M. (2022). Nonconvex 3D array image data reco
 ## Folders
 - `algs` includes only the proposed method: tensor weighted Schatten-p ( $t\text{-}S_{w,p}$ )
 - `data` contains datasets.
+  - `tc_data`: 
+  
+    | Dataset | Sources |
+    | ---- | ---- |
+    | MRI | http://brainweb.bic.mni.mcgill.ca/brainweb/selection_normal.html |
+    | Video(Road) | http://www.changedetection.net |
+    | Video(Suzie) |  http://trace.eas.asu.edu/yuv/ |
+    | Salesman | http://trace.eas.asu.edu/yuv/ |
+  - `BSD`: Berkeley Segmentation Dataset
+    > Martin D, Fowlkes C, Tal D, et al. A database of human segmented natural images and its application to evaluating segmentation algorithms and measuring ecological statistics[C]//Proceedings Eighth IEEE International Conference on Computer Vision. ICCV 2001. IEEE, 2001, 2: 416-423.
+  - 
 - `utils` includes some utilities scripts.
 
 ## Files
